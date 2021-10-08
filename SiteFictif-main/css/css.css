@@ -1,0 +1,216 @@
+#hero {
+    /*background-image: url(../img/deco2.png);*/
+    background-color: #334554;
+    background-size: 27%;
+    background-position-x: right;
+    background-repeat: no-repeat;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    padding-left: 20rem;
+    padding-right: 19rem;
+    border-width:1px;
+    border-style:solid;
+    border-color:rgb(255, 255, 255);
+   
+}
+
+#hero2 {
+    background-image: url(../img/test.jpg);
+    background-repeat: no-repeat; 
+    padding-top: 5rem;
+    padding-bottom: 25rem;
+    padding-left: 65rem;
+    padding-right: 5rem;
+    border-width:1px;
+    border-style:solid;
+    border-color:rgb(255, 255, 255);
+
+}
+
+#hero3 {
+    background-color: rgb(0, 0, 0);
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    padding-left: 20rem;
+    padding-right: 5rem;
+    border-width:1px;
+    border-style:solid;
+    border-color:rgb(255, 255, 255);
+
+}
+
+#hero4 {
+    background-image: url(../img/open01.jpg);
+    background-size: 100%;
+    background-position-x: center;
+    background-position-y: 61% ;
+    background-repeat: no-repeat;   
+    padding-top: 10rem;
+    padding-bottom: 25rem;
+    padding-left: 65rem;
+    padding-right: 5rem;
+    border-width:1px;
+    border-style:solid;
+    border-color:rgb(255, 255, 255);
+
+}
+
+#hero5 {
+    background-color: rgb(0, 0, 0);
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    padding-left: 20rem;
+    padding-right: 5rem;
+    border-width:1px;
+    border-style:solid;
+    border-color:rgb(255, 255, 255);
+
+}
+
+#hero6 {
+    background-image: url(../img/PHOTOBOX.png);
+    background-position-x: center;
+    background-size: cover;
+    padding-bottom: 20rem;
+    border-width:1px;
+    border-style:solid;
+    border-color:rgb(255, 255, 255);
+ 
+}
+
+.SectionGalerie{
+    padding-left: 150px;
+
+}
+
+.container{
+    padding-right : 50px;
+    margin-left: 155px;
+}
+
+p.style
+{
+    width: 500px ;
+    color: yellow;
+}
+
+h1.h101
+{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: "Source Sans Pro",sans-serif;
+}
+
+h1.h102
+{
+    color: red;
+    text-align: center;
+    width: 500px;
+    padding-left: 15rem;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+h1.h103
+{
+    color: red;
+    text-align: center;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;   
+}
+
+h3.h301
+{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: "Source Sans Pro",sans-serif;
+}
+
+.border01
+{
+    background-color: #000000a1;
+	padding-right: 20rem;
+    width: 320px;
+}
+
+.border02
+{
+    background-color: #000000a1;
+    width: 500px;
+}
+
+.img01
+{
+    width: 100%;
+}
+
+.img02
+{
+    width: 100%;
+}
+
+.block-content
+{
+    text-align: center;
+    padding-top: 30rem;
+}
+
+.font-40
+{
+    font-size: 40px;
+    line-height: 40px;
+}
+
+.title-primary
+{
+    color: #F7DE35;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    font-family: "Source Sans Pro",sans-serif;
+}
+
+.btn
+{
+    border-radius: 7px;
+    height: 30px;
+    line-height: 30px;
+    box-shadow: initial!important;
+    font-weight: 700;
+    padding: 0 25px;
+    text-transform: uppercase;
+    font-size: 12px;
+    vertical-align: bottom;
+    letter-spacing: 2px;
+    display: inline-block;
+    touch-action: manipulation;
+    cursor: pointer;
+    user-select: none;
+}
+
+
+.btn-bordered 
+{
+    background:none;
+    color: #FFF;
+    border: 1px #FFF solid;
+}
+
+.subtitle-primary
+{
+    color: #fff;
+    font-size: 24px;
+    font-weight: 300;
+    letter-spacing: 0.05em;
+    line-height: 24px;
+    text-transform: uppercase;
+    font-family: "Source Sans Pro",sans-serif;
+}
+
+.row2 {
+    text-align: center;
+}
+
+.border04
+{
+    background-color: #000000a1;
+    width: 430px;
+}
